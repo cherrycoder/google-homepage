@@ -1,0 +1,71 @@
+.logo {
+	position: relative;
+	left: 350px;
+	top: 100px;
+	}
+.form {
+	position: relative;
+	left: 375px;
+		
+}
+.button{
+	position: relative;
+	left: 450px;
+}
+
+
+.navbar 	{
+	position: relative;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	top: -375px;
+
+	
+}
+
+.navbar li {
+	float: right;
+}
+
+.navbar li a {
+	display: inline;
+	color: white;
+	text-align: center;
+	padding: 8px 6px;
+	text-decoration: none;
+	
+}
+
+.navbar 	li a:hover {
+	background-color: #111;
+}
+
+.footer  {
+	position: relative;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	top: 250px;
+
+	
+}
+
+.footer li {
+	float: left;
+}
+
+.footer li a {
+	display: inline;
+	color: white;
+	text-align: center;
+	padding: 8px 6px;
+	text-decoration: none;
+}
+
+.footer li a:hover {
+	background-color: #111;
+}
+
